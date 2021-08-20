@@ -1,5 +1,5 @@
 {
-    "name": "josrom/nova-map-address",
+    "name": "wdarins/nova-map-address",
     "description": "A Laravel Nova field to place a marker on map to get coordinates then it reverse geocoding the coordinates to get a street address",
     "keywords": [
         "laravel",
